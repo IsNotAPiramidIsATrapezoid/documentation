@@ -1,0 +1,10 @@
+Notas
+
+- Se deben tener usuarios
+- Cada usuario debe tener un Rol: Ponente, Inversionista
+- Ponencia Validad por el usuario Administrador
+- Debe mostrar un Piloto funcional-imagenes-documentación
+- Inversionistas filtran los Proyectos por Categoría
+- Cualquiera puede ser Inversionistas
+- 
+
