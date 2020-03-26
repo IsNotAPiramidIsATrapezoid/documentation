@@ -9,7 +9,8 @@ Notas
 - Hacer seguimiento de los Proyectos y sus inversiones
 - Reportes para administrador de Inverionista por Proyecto
 - Notificación de nuevos Proyectos por Perfil y por Rol
-- 
+- Seguridad en pasarella de Transacciones
+- Marketing para Inversionistas y Emprendedores
 
 
 ------------------------------------------------------------
@@ -18,4 +19,6 @@ Diagraman de clases
 
 ------------------------------------------------------------
 Servicios
+
+Servicio-Api Rest-Post
 
